@@ -1,2 +1,4 @@
-# FM-tuner
-High-quality FM-tuner with PLL based on the Philips FM1216ME RF unit [Arduino project]
+## FM-tuner
+Прототип FM-тюнера:
+
+![FM-тюнер v1](./images/FM-tuner_v1.JPG)
